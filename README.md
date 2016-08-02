@@ -62,14 +62,14 @@ Fork this repository and send us a pull request. We'll review it and get back to
 
 ## Main steps
 
-[ ] Create a Plivo account and read the doc.
+- [ ] Create a Plivo account and read the doc.
 
-[ ] Create SIP endpoints on Plivo for the caller and the users' apps.
+- [ ] Create SIP endpoints on Plivo for the caller and the users' apps.
 
-[ ] Create Application and SIP endpoints you'll use for company's numbers.
+- [ ] Create Application and SIP endpoints you'll use for company's numbers.
 
-[ ] Create a Call model in order to store call history and voicemails.
+- [ ] Create a Call model in order to store call history and voicemails.
 
-[ ] Redirect incoming calls to users' apps by interacting with Plivo.
+- [ ] Redirect incoming calls to users' apps by interacting with Plivo.
 
 Contact us at jobs@aircall.io if you need more details.
