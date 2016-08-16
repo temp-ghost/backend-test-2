@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  call_id: 
+  url: MyString
+  duration: 
+
+two:
+  call_id: 
+  url: MyString
+  duration: 

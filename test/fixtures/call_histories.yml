@@ -1,0 +1,26 @@
+# == Schema Information
+#
+# Table name: calls
+#
+#  id                :integer          not null, primary key
+#  user_number_id    :integer
+#  company_number_id :integer
+#  call_time         :integer
+#  voicemail         :string
+#  created_at        :datetime         not null
+#  updated_at        :datetime         not null
+#
+
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_number_id: 
+  company_number_id: 
+  call_time: 
+  voicemail: 
+
+two:
+  user_number_id: 
+  company_number_id: 
+  call_time: 
+  voicemail: 

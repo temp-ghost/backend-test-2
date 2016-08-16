@@ -36,6 +36,8 @@ Rails.application.configure do
   # Raises helpful error messages.
   config.assets.raise_runtime_errors = true
 
+  routes.default_url_options = { host: ENV['HOST'] }
+
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
 end
